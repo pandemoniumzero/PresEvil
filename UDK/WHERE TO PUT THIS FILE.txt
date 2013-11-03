@@ -1,0 +1,8 @@
+Drop it in the folder titled "Content" in:
+<UDK installation>/UDKGame/Content/
+
+You should now have two files @
+<UDK installation>/UDKGame/Content/PresidentEvil/pe_basement.udk
+<UDK installation>/UDKGame/Content/PresidentEvil/pe_basement_data.upk
+
+The .udk file is the map whereas the .upk file contains all other assets.
